@@ -1,2 +1,2 @@
 # Mern-Blog
-Express - Mongo - NodeJS - React
+Project For New Software Technology.  Express + Mongo + NodeJS + React
